@@ -12,6 +12,6 @@ Api service mengirim email
 1. Create token
 2. Send mail
 
-## Capture
- - api-sendmail-service-token.png
- - api-sendmail-service-sendemail.png
+## Captures
+<img src="1 - api-sendmail-service-token.png" width="75%"/>
+<img src="2 - api-sendmail-service-sendemail.png" width="75%"/>
