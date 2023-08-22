@@ -1,0 +1,25 @@
+-- Host: 127.0.0.1
+/localhost/ip host
+-- Date time: Aug 22, 2023
+-- Server version: 10.4.21 - MariaDB
+
+-- PHP Version: 7.4.23
+
+------------------------------------
+
+-- MySql & OOP PHP
+-- Testing RUN POSTMAN
+
+-- API Create token : POST
+-- http://192.168.3.110/php_sendmail_service/main.php/get_token
+-- API Create token : Header Username & Password (samakan dengan data db)
+
+-- API Send mail : POST
+-- http://192.168.3.110/php_sendmail_service/main.php/sendmail
+-- API Send mail : Header X-Token, Body emailTo, subject, message (html)
+
+-- Response 
+-- Metadata : code, message, response
+
+-- koneksi for setup db
+-- config for set authenticated
