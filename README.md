@@ -1,6 +1,6 @@
 # api-sendmail-service
 ## Description
-Api service mengirim email
+PHP API Service Mengirim Email
 
 ## Requirement
  - Host: 127.0.0.1/localhost/ip hostlocal
